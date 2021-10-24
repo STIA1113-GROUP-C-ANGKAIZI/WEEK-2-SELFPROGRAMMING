@@ -1,0 +1,13 @@
+package selfProgramming;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("I said \"Hello\" to you.");
+	}
+
+}
+
+Output:
+I said "Hello" to you.
